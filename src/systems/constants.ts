@@ -1,0 +1,11 @@
+export const ARENA_SIZE = 520
+export const PLAYER_RADIUS = 14
+export const LASER_WARNING_DURATION = 700   // ms
+export const BOSS_INTERVAL = 60_000         // ms
+export const BOSS_DURATION = 8_000          // ms
+export const HEAT_PROXIMITY = 32            // px — danger zone
+export const HEAT_RATE = 60                 // per second
+export const HEAT_COOLDOWN = 22             // per second
+export const SCORE_PER_SEC = 10
+export const MULTIPLIER_SAFE_TIME = 10      // seconds
+export const MULTIPLIER_HEAT_THRESHOLD = 30
