@@ -1,7 +1,7 @@
-import { LaserData } from '../systems/collision'
+
 
 interface Props {
-  laser: LaserData
+  laser: any
   arenaSize: number
 }
 
